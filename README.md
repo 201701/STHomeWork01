@@ -1,1 +1,1 @@
-# STHomeWork01
+# a java project for student information manage
